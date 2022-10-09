@@ -1,0 +1,18 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid black;
+}
+.container-routes {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid black;
+}
